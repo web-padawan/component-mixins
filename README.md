@@ -1,9 +1,6 @@
-# lit-mixins
+# component-mixins
 
-Prototyping a set of mixins and helpers for LitElement.
-
-Note: this is a research project and continuation of [lit-components](https://github.com/web-padawan/lit-components).
-
+A set of mixins and helpers for future versions of Vaadin components, built with LitElement.
 
 ## Install dependencies
 

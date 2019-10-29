@@ -1,7 +1,7 @@
 {
-  "name": "lit-mixins",
+  "name": "component-mixins",
   "private": true,
-  "description": "Prototyping mixins with lit-element",
+  "description": "Mixins and helpers for future versions of Vaadin components",
   "author": "Vaadin Ltd",
   "license": "Apache-2.0",
   "scripts": {
